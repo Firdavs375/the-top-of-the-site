@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-top {
+    width: 1120px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    align-items: center;
+}
+
+.ong_quti {
+    display: flex;
+    align-items: center;
+}
+
+.list {
+    display: flex;
+    cursor: pointer;
+}
+
+.list_iteme {
+    padding-right: 60px;
+    list-style: none;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    font-weight: 400;
+    font-size: 18px;
+    color: #363853;
+}
+.list_iteme:hover{
+    color: #fe781e;
+}
+.activ{
+    list-style: none;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    font-weight: 400;
+    font-size: 18px;
+    color: #fe781e;
+}
+
+.qidiruv {
+    padding-right: 60px;
+}
+
+.Buy {
+    padding-right: 60px;
+}
+
+.sotib_olish {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 14px 28px;
+    background: #FF7A50;
+    box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+    border-radius: 5px;
+    border: none;
+}
