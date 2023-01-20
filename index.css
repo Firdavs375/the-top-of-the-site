@@ -27,7 +27,7 @@
     list-style: none;
     font-family: 'Rubik', sans-serif;
     font-weight: 300;
-    font-weight: 400;
+    /* font-weight: 400; */
     font-size: 18px;
     color: #363853;
 }
@@ -38,7 +38,7 @@
     list-style: none;
     font-family: 'Rubik', sans-serif;
     font-weight: 300;
-    font-weight: 400;
+    /* font-weight: 400; */
     font-size: 18px;
     color: #fe781e;
 }
@@ -54,7 +54,7 @@
 .sotib_olish {
     font-family: 'Rubik', sans-serif;
     font-weight: 300;
-    font-weight: 400;
+    /* font-weight: 400; */
     font-size: 18px;
     text-align: center;
     color: #FFFFFF;
